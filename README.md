@@ -6,3 +6,7 @@
 ::
 <img src="https://user-images.githubusercontent.com/25931598/45236585-db42f780-b2f9-11e8-8fab-e0d22ae03721.png" alt="User Profile" width="250" height="450">  ||::||  <img src="https://user-images.githubusercontent.com/25931598/45236609-f6156c00-b2f9-11e8-87a8-25ead9d3ea95.png" alt="Search Movie" width="250" height="450" > ||::||<img src="https://user-images.githubusercontent.com/25931598/45236649-1e9d6600-b2fa-11e8-9c0a-553b752c1fe0.png" alt="Movie Detail" width="250" height="450" >
 
+########
+
+<img src="https://user-images.githubusercontent.com/25931598/45237060-417c4a00-b2fb-11e8-9a51-6bf58babec54.png" alt="Profile Statistics" width="250" height="450">  ||::||  <img src="https://user-images.githubusercontent.com/25931598/45237089-5527b080-b2fb-11e8-926f-88624c90ceea.png" alt="Notification" width="250" height="450" >
+
